@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Zhao Yapeng"
   avatar           : "pallascat.png"
-  bio              : "我们必须知道，我们必将知道！"
+  bio              : "我们必须知道，我们必将知道！!"
   location         : "currently at PKU"
-  email            : zhaoyapeng@stu.pku.edu.cn
-  github           : PallazCat
+  email            : "zhaoyapeng@stu.pku.edu.cn"
+  github           : "PallazCat"
  # employer         :
 # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
