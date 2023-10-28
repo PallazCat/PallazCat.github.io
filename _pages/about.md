@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I'm currently a student in Peking University majoring in Mathematics and this website is under construction."
+title: "I'm currently a student at Peking University majoring in Mathematics and this website is under construction."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
