@@ -84,11 +84,11 @@ author:
   avatar           : "pallascat.png"
   bio              : "我们必须知道，我们必将知道！"
   location         : "currently at PKU"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+ # employer         :
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :zhaoyapeng@stu.pku.edu.cn
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+ # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,25 +96,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "PallazCat"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+ # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+#  lastfm           :
+  #linkedin         :
+#  orcid            : "http://orcid.org/yourorcidurl"
+#  pinterest        :
+ # soundcloud       :
+ # stackoverflow    : # http://stackoverflow.com/users/123456/username
+ # steam            :
+ # tumblr           :
+ #twitter          : "replacethistwitterhandle"
+ #vine             :
+ # weibo            :
+  #xing             :
+  #youtube          :
+ # wikipedia        :
 
 
 # Reading Files
