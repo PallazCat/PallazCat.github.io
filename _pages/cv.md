@@ -16,7 +16,7 @@ Education
 
 Mathematical Analysis
 ======
-1.设$E=\mathbb{Q}^2$,证明：$\mathbb{R}\E$是道路连通的.(伍胜健数学分析III,P38,24题)
+1.设$E=\mathbb{Q}^2$,证明：$\mathbb{R}-E$是道路连通的.(伍胜健数学分析III,P38,24题)
 
 Abstrac Algebra
 ======
