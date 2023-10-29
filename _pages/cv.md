@@ -16,11 +16,20 @@ Education
 
 Mathematical Analysis
 ======
-1.设$E=\mathbb{Q}^2$,证明：$\mathbb{R}-E$是道路连通的.(伍胜健数学分析III,P38,24题)
+1.证明：$\mathbb{R}-\mathbb{Q}^2$是道路连通的.(伍胜健数学分析III,P38,24题)
 
 Abstrac Algebra
 ======
 
 Real Analysis
 ======
+关于依测度收敛函数的运算性质：
+$\{f_k(x)\},\{g_k(x)\}$是定义在$E$上的几乎处处有限的可测函数列,分别依测度收敛于$f(x),g(x)$,$m(E)<\infty$,则$\{f_k(x)g_k(x)\}$依测度收敛于$f(x)g(x)$.
+
+
+
+
+
+
+
 
