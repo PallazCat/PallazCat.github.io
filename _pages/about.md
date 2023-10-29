@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I'm currently a student at Peking University majoring in Mathematics and this website is under construction."
+title: "Zhao Yapeng's Homepage."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My Homepage
+
 
 Who I Am
 ======
