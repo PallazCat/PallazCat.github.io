@@ -23,9 +23,9 @@ Abstrac Algebra
 
 Real Analysis
 ======
-1.关于依测度收敛函数的运算性质(参考夏道行的教材)：
+1.关于依测度收敛函数的运算性质(参考周民强实变函数的教材P118例题3)：
 $\{f_k(x)\},\{g_k(x)\}$是定义在$E$上的几乎处处有限的可测函数列,分别依测度收敛于$f(x),g(x)$,$m(E)<\infty$,则$\{f_k(x)g_k(x)\}$依测度收敛于$f(x)g(x)$.
-证明：$\{g_k(x)\}$几乎处处有限，则$\forall \epsilon>0,\exists n>0,s.t.m(\{x\in E:|g(x)|\geq n\})<\delta$
+证明：利用例题3的结论加Riesz定理可以证明任一子列$\{f_k_i(x)g_k_i(x)\}$均有子列几乎处处收敛于$f(x)g(x)$,再由于$m(E)<\infty$可知，该子列的子列依测度收敛到$f(x)g(x)$.$\blacksquare$
 
 
 
