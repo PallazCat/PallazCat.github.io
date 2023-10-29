@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+My Homepage
+
+Who I Am
+======
 I studied in the college of Chemistry and Molecular Engineering in the first and second year at PKU. However, due to my severe interest in Mathematics, I changed my major into Mathematics at my third year of my college life. So I am now a student in the school of mathematical science.
 
 My Email
