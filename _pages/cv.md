@@ -23,7 +23,15 @@ Mathematical Analysis
 
 Abstrac Algebra
 ======
-(Introduction to Commutatie Algebra, P3, by Michael Atiyah)Suppose R is a commutative ring with $0\neq 1$,then:$\mathfrak{m}$ is a maximal ideal $\iff R/\mathfrak{m}$ is a field. 
+Suppose R is a commutative ring with $0\neq 1$,then:$\mathfrak{m}$ is a maximal ideal $\iff R/\mathfrak{m}$ is a field. (Introduction to Commutative Algebra, P3, by Michael Atiyah)
+
+Proof:By Lattice Isomorphism Theorem(We have the first equivalence class):$\mathfrak{m}$ is a maximal ideal $\iff R/\mathfrak{m}$ has only two ideals (0) and (1) $\iff R/\mathfrak{m}$ is a field.
+
+NTS $R/\mathfrak{m}$ has only two ideals (0) and (1) $\iff R/\mathfrak{m}$ is a field:
+
+$\Longleftarrow$:clearly
+
+$\Longrightarrow$:$\forall a \in R/\mathfrak{m}$, if $(a)\neq (0)$,then $(a)=(1)$,then $\exists b\in  R/\mathfrak{m}$,$s.t. ab=1$,so $ R/\mathfrak{m}$ is a field.
 
 
 
