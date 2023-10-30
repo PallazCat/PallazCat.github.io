@@ -18,8 +18,15 @@ Mathematical Analysis
 ======
 1.证明：$\mathbb{R}-\mathbb{Q}^2$是道路连通的.(伍胜健数学分析III,P38,24题)
 
+
+
+
 Abstrac Algebra
 ======
+(Introduction to Commutatie Algebra, P3, by Michael Atiyah)Suppose R is a commutative ring with $0\neq 1$,then:$\mathfrak{m}$ is a maximal ideal $\iff R/\mathfrak{m}$ is a field. 
+
+
+
 
 Real Analysis
 ======
