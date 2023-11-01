@@ -48,7 +48,10 @@ Real Analysis
 
 $A= \{n+\frac{1}{n}:n \in \mathbb{N}\} ,B=\{n: n \in \mathbb{N}\}$.
 
+3. If E and F are measurable, and $m(E)>0, m(F)>0$,prove that
 
+
+<center> $E+F=\{x+y:x \in E, y \in F\}$<\center>
 
 
 
