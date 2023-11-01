@@ -44,6 +44,22 @@ Real Analysis
 
 证明：利用例题3的结论加Riesz定理可以证明任一子列$\lbrace f_{k_i}(x)g_{k_i}(x)\rbrace$均有子列几乎处处收敛于$f(x)g(x)$,再由于$m(E)<\infty$可知，该子列的子列依测度收敛到$f(x)g(x)$.$\blacksquare$
 
+2.Show, however, that A+B might not be closed though A and B are closed.
+
+$A= \{n+\frac{1}{n}:n \in \mathbb{N}\} ,B=\{n: n \in \mathbb{N}\}$.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
