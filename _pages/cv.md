@@ -50,7 +50,6 @@ $A= \lbrace n+\frac{1}{n}:n \in \mathbb{N}\rbrace ,B=\lbracen: n \in \mathbb{N}\
 
 3. If E and F are measurable, and $m(E)>0, m(F)>0$,prove that
 
-
 <center> $E+F=\lbrace x+y:x \in E, y \in F\rbrace$<\center>
 
 
