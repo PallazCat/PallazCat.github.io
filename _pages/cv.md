@@ -48,14 +48,7 @@ Real Analysis
 
 $A= \lbrace n+\frac{1}{n}:n \in \mathbb{N}\rbrace ,B=\lbrace n: n \in \mathbb{N}\rbrace$.
 
-3. If E and F are measurable, and $m(E)>0, m(F)>0$,prove that
 
-<center> $E+F=\lbrace x+y:x \in E, y \in F\rbrace$<\center>
-
-then, $\exists \delta > 0, x_0 \in \mathbb{R}^n$, s.t. $B(x_0,\delta) \subset E+F$.
-(Real Analysis, Stein, Chapter 1, 30;是Steinhaus定理的更一般的形式)
-
-证明: $\exists I_1,I_2,$
 
 
 
