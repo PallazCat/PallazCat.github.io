@@ -44,13 +44,17 @@ Real Analysis
 
 证明：利用例题3的结论加Riesz定理可以证明任一子列$\lbrace f_{k_i}(x)g_{k_i}(x)\rbrace$均有子列几乎处处收敛于$f(x)g(x)$,再由于$m(E)<\infty$可知，该子列的子列依测度收敛到$f(x)g(x)$.$\blacksquare$
 
-2.Show, however, that A+B might not be closed though A and B are closed.
+2.Show, however, that A+B might not be closed though A and B are closed.(Real Analysis, Stein, Chapter 1, 19)
 
 $A= \lbrace n+\frac{1}{n}:n \in \mathbb{N}\rbrace ,B=\lbracen: n \in \mathbb{N}\rbrace$.
 
 3. If E and F are measurable, and $m(E)>0, m(F)>0$,prove that
 
 <center> $E+F=\lbrace x+y:x \in E, y \in F\rbrace$<\center>
+
+then, $\exists \delta > 0, x_0 \in \mathbb{R}^n$, s.t. $B(x_0,\delta) \subset E+F$.(Real Analysis, Stein, Chapter 1, 30;是Steinhaus定理的更一般的形式)
+
+
 
 
 
