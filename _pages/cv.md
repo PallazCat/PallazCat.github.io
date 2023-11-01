@@ -46,12 +46,12 @@ Real Analysis
 
 2.Show, however, that A+B might not be closed though A and B are closed.
 
-$A= \{n+\frac{1}{n}:n \in \mathbb{N}\} ,B=\{n: n \in \mathbb{N}\}$.
+$A= \lbrace n+\frac{1}{n}:n \in \mathbb{N}\rbrace ,B=\lbracen: n \in \mathbb{N}\rbrace$.
 
 3. If E and F are measurable, and $m(E)>0, m(F)>0$,prove that
 
 
-<center> $E+F=\{x+y:x \in E, y \in F\}$<\center>
+<center> $E+F=\lbrace x+y:x \in E, y \in F\rbrace$<\center>
 
 
 
