@@ -24,5 +24,5 @@ I’m passionate about running. I’ve participated in a marathon and completed 
 
 My Note
 ======
-This is unfinished.
+This is far from being finished.
 <embed src="Examples_in_Mathematics.pdf" type="application/pdf" width="100%" height="600px" />
