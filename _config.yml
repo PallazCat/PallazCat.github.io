@@ -84,7 +84,7 @@ author:
   avatar           : "0f887aad40b5439dc0e77837730472cd.jpg"
   bio              : "我们必须知道，我们必将知道！!"
   location         : "currently at PKU"
-  email            : "zhaoyapeng@stu.pku.edu.cn"
+  #email            : "zhaoyapeng@stu.pku.edu.cn"
   github           : "PallazCat"
  # employer         :
 # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
