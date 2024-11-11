@@ -18,6 +18,6 @@ My Email
 ======
 zhaoyapeng@stu.pku.edu.cn
 
-My Purpose
+About Me
 ======
-Nothing.
+I’m passionate about running. I’ve participated in a marathon and completed a half-marathon. Now, I’m preparing to take part in my first full marathon.
