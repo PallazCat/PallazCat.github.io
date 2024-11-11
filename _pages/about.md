@@ -23,5 +23,4 @@ About Me
 I’m passionate about running. I’ve participated in a marathon and completed a half-marathon. Now, I’m preparing to take part in my first full marathon.
 
 My Note
-======
-<a href="PallazCat.github.io/images/Examples_in_Mathematics.pdf" target="_images">PDF.</a>
+======<iframe src="https://docs.google.com/viewer?url=https://github.com/PallazCat/PallazCat.github.io/raw/images/path/to/Examples_in_Mathematics.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
