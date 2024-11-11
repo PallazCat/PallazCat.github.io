@@ -12,8 +12,7 @@ redirect_from:
 
 Who I Am
 ======
-I studied in the college of Chemistry and Molecular Engineering in the first and second year at PKU. However, due to my severe interest in Mathematics, I changed my major into Mathematics at my third year of my college life. So I am now a student in the school of mathematical science.
-
+I am currently a junior student majoring in mathematics in Peking Universty.
 My Email
 ======
 zhaoyapeng@stu.pku.edu.cn
