@@ -12,6 +12,8 @@ redirect_from:
 
 Who I Am
 ======
+I am From Sichuan.
+
 I am currently a junior majoring in Mathematics at Peking University. I’m passionate about running.
 
 Originally, I majored in Chemistry when I first started university, but after two years of study, I switched my major out of curiosity.
