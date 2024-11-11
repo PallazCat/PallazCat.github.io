@@ -24,4 +24,4 @@ I’m passionate about running. I’ve participated in a marathon and completed 
 
 My Note
 ======
-<a href="PallazCat.github.io/folder/Examples_in_Mathematics.pdf" target="_blank">PDF.</a>
+<a href="PallazCat.github.io/folder/Examples_in_Mathematics.pdf" target="_images">PDF.</a>
