@@ -9,7 +9,4 @@ redirect_from:
 My Note
 ======
 This is far from being finished.
-`html
-[My Notes](https://github.com/PallazCat/PallazCat.github.io
-/raw/data/path/to/Examples_in_Mathematics (1).pdf)
-
+<embed src="example.pdf" type="application/pdf" width="100%" height="600px" />
