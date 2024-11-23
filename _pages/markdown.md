@@ -9,4 +9,5 @@ redirect_from:
 My Note
 ======
 This is far from being finished.
-<embed src="Examples_in_Mathematics 1.pdf" type="application/pdf" width="100%" height="600px" />
+<a href="PallazCat.github.io/folder/document.pdf" target="_Examples_in_Mathematics 1">PDF.</a>
+
