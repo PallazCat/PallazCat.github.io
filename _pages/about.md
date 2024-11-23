@@ -25,6 +25,7 @@ In addition to my studies, I’m learning French and have developed an interest 
 My Email
 ======
 zhaoyapeng@stu.pku.edu.cn
+
 My Note
 ======
-<embed src="Examples_in_Mathematics 1.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="Examples_in_Mathematics 1.pdf" type="application/pdf" width="100%" height="200px" />
