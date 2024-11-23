@@ -9,4 +9,4 @@ redirect_from:
 My Note
 ======
 This is far from being finished.
-<embed src="example.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="Examples_in_Mathematics (1).pdf" type="application/pdf" width="100%" height="600px" />
