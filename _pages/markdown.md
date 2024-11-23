@@ -9,5 +9,6 @@ redirect_from:
 My Note
 ======
 This is far from being finished.
-<a href="PallazCat.github.io/folder/_data/Examples_in_Mathematics 1.pdf" target="_blank">Examples_in_Mathematics.</a>
+[My Notes](https://github.com/PallazCat/PallazCat.github.io
+/raw/data/path/to/Examples_in_Mathematics (1).pdf)
 
