@@ -17,7 +17,7 @@ main:
   - title: "CV"
     url: /cv/
     
-  -# title: "My notes"
+  #- title: "My notes"
    #url: /markdown/
   #- title: "Interesting Problems"
    # url: /publications/
