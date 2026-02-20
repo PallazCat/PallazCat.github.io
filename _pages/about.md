@@ -37,6 +37,8 @@ I am an amateur runner, interested in 5k, 10k, half marathons and full marathons
 
 I love trail running as well, I enjoy running across rivers in the mountains, watching beautiful sightseeings at the same time! I hope that one day I can climb snow-covered mountains.
 
+I am interested in French opera and traditional Chinese-style music.
+
 Research Projects
 ======
 I finished a project lying in the interface of Maths and Chemistry under the supervision of Zhiqiang Li from Peking University, it has been submitted.(ie Yan†, Maolin Wang†, Junzhong Xie†, Yapeng Zhao†, Xianghui Shi†, Yuxiong Hu, Shixiang Yu, Xingwu Liu, Chaowu Xue, Shuheng Tian, Yaxuan Wang, Zijun Peng, Wu Zhou, Hiroyuki Asakura, Meng Wang, Zhiqiang Li*, Zhu-Jun Wang*, Ding Ma*, Reactive Oxygen Pool over Ceria Enables Catalytic Oscillation. Submitted. (†: First authors; *: communication authors.))
