@@ -14,7 +14,7 @@ Who I Am
 ======
 I am about to graduate and be a PhD studnent at the University of Toronto majoring in Pure Maths. 
 
-I think I am outgoing! Anyone who has the same interests is welcome to email me and make friends with me!
+I think I am outgoing and always to make friends! Anyone who has the same interests is welcome to email me and make friends with me!
 ======
 
 
