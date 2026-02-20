@@ -18,7 +18,7 @@ I think I am outgoing! Anyone who has the same interests is welcome to email me 
 ======
 
 
-My Academic Interests (Anyone who has the same interests is welcome to email me and make friends with me!)
+My Academic Interests 
 ======
 Generally, I am interested in Mathematical Physics, but I do have broad interests in both mathematics and sciences.
 
