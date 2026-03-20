@@ -12,7 +12,7 @@ redirect_from:
 
 Who I Am
 ======
-I am about to graduate at Peking University in China and become a PhD student at the University of Toronto majoring in Pure Mathematics this September. 
+I am about to graduate from Peking University in China and become a PhD student at the University of Toronto majoring in Pure Mathematics this September. 
 
 
 My Academic Interests 
