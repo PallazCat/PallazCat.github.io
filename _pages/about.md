@@ -24,7 +24,7 @@ probability theory on an axiomatic basis. The most recent advance is the derivat
 via Boltzmann’s kinetic theory in 2025. However, there are infinite open problems left, including
 deriving those equations by more reliable and realistic models, establishing a rigorous mathematical
 foundation for AI, and solving the original version of Hilbert’s 6th problem–axiomatizing theories of
-physics. I truly hope I can make progress in this area.
+physics.
  
 My Hobbies
 ======
@@ -42,8 +42,6 @@ I finished a project lying in the interface of Maths and Chemistry under the sup
 
 I am currently working on multiple research projects. I am doing a project related to Lee-Yang zeros under the supervision of Roland Roeder from IU Indiapolis, collaborating with a PhD student there. Besides, I am conducting my senior thesis related to Dyson Hierarchical Model. Furthermore My research projects and my reading under
 the supervision of professor Ilia Binder from the University of Toronto can be viewed as one initial step of my interest in Hilbert's 6th problem.
-
-I hope I can understand the relationship between those areas one day.
 
 
 Honors & Awards
