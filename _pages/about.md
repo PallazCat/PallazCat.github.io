@@ -14,7 +14,6 @@ Who I Am
 ======
 I am about to graduate and be a PhD studnent at the University of Toronto majoring in Pure Maths. 
 
-I think I am outgoing and always happy to make friends! Anyone who is interested is welcome to email me and make friends with me!
 ======
 
 
@@ -41,7 +40,7 @@ I am interested in French opera and traditional Chinese-style music.
 
 Research Projects
 ======
-I finished a project lying in the interface of Maths and Chemistry under the supervision of Zhiqiang Li from Peking University, it has been submitted.(ie Yan†, Maolin Wang†, Junzhong Xie†, Yapeng Zhao†, Xianghui Shi†, Yuxiong Hu, Shixiang Yu, Xingwu Liu, Chaowu Xue, Shuheng Tian, Yaxuan Wang, Zijun Peng, Wu Zhou, Hiroyuki Asakura, Meng Wang, Zhiqiang Li*, Zhu-Jun Wang*, Ding Ma*, Reactive Oxygen Pool over Ceria Enables Catalytic Oscillation. Submitted. (†: First authors; *: communication authors.))
+I finished a project lying in the interface of Maths and Chemistry under the supervision of Zhiqiang Li from Peking University, it has been submitted.
 
 I am currently working on multiple research projects. I am doing a project related to Lee-Yang zeros under the supervision of Roland Roeder from IU Indiapolis, collaborating with a PhD student there. Besides, I am conducting my senior thesis related to Dyson Hierarchical Model. Furthermore My research projects and my reading under
 the supervision of professor Ilia Binder from the University of Toronto can be viewed as one initial step of my interest in Hilbert's 6th problem.
@@ -51,6 +50,10 @@ I hope I can understand the relationship between those areas one day.
 My Email (It is my pleasure to receive your emails!)
 ======
 zhaoyapeng@stu.pku.edu.cn
+
+Honors & Awards
+======
+Connaught International Scholarship for Doctoral Students, University of Toronto, 2026-
 
 
 
