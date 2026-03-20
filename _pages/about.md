@@ -50,7 +50,7 @@ Connaught International Scholarship for Doctoral Students, University of Toronto
 
 Links
 ======
-https://www.overleaf.com/read/srnqgqvydqjj#1c0102
+[Solutions to some exercises](https://www.overleaf.com/read/srnqgqvydqjj#1c0102)
 
 My Email (It is my pleasure to receive your emails!)
 ======
