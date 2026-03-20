@@ -14,8 +14,6 @@ Who I Am
 ======
 I am about to graduate and be a PhD studnent at the University of Toronto majoring in Pure Maths. 
 
-======
-
 
 My Academic Interests 
 ======
@@ -47,13 +45,14 @@ the supervision of professor Ilia Binder from the University of Toronto can be v
 
 I hope I can understand the relationship between those areas one day.
 
-My Email (It is my pleasure to receive your emails!)
-======
-zhaoyapeng@stu.pku.edu.cn
 
 Honors & Awards
 ======
 Connaught International Scholarship for Doctoral Students, University of Toronto, 2026-
+
+My Email (It is my pleasure to receive your emails!)
+======
+zhaoyapeng@stu.pku.edu.cn
 
 
 
