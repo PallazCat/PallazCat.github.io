@@ -54,7 +54,7 @@ I enjoy writing random things!
 
 [Solutions to some exercises](https://www.overleaf.com/read/srnqgqvydqjj#1c0102)
 
-[Supplementto Ruelle's Proof about Extention of Lee-Yang Theorem](https://www.overleaf.com/read/mwdfqjhygdnn#20a0e1)
+[Supplement to Ruelle's Proof about Extention of Lee-Yang Theorem](https://www.overleaf.com/read/mwdfqjhygdnn#20a0e1)
 
 My Email (It is my pleasure to receive your emails!)
 ======
