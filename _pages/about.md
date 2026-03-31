@@ -52,7 +52,7 @@ Links
 ======
 I enjoy writing random things!
 
-[Solutions to some exercises](https://www.overleaf.com/read/srnqgqvydqjj#1c0102)
+[Solutions to some exercises (textbook: Fractals in Probability and Analysis)](https://www.overleaf.com/read/srnqgqvydqjj#1c0102)
 
 [Supplement to Ruelle's Proof about Extention of Lee-Yang Theorem](https://www.overleaf.com/read/mwdfqjhygdnn#20a0e1)
 
