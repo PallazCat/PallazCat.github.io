@@ -66,6 +66,6 @@ I enjoy writing random things!
 
 My Email (It is my pleasure to receive your emails!)
 ======
-yapeng.zhao@mail.utoronto.ca
+yapeng.zhao at mail dot utoronto dot ca
 
 
