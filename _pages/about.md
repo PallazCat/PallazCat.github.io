@@ -14,7 +14,7 @@ Updated Date
 
 Who I Am
 ======
-I am Yapeng Zhao, a student just graduated from Peking University in China and will become a PhD student at the University of Toronto this September.
+I am a PhD student at the University of Toronto, majoring in mathematics.
 
 My Academic Interests 
 ======
