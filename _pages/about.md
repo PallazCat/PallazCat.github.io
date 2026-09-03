@@ -28,16 +28,6 @@ Hilbert’s sixth problem was partially solved by Andrey Kolmogorov in the 1930s
 
 At present, I am deeply absorbed in exploring the limits of AI in mathematics.
  
-My Hobbies
-======
-I love sports and I am an outdoorsy people.
-
-I am an amateur runner, interested in 5k, 10k, half marathons and full marathons. I have run a marathon in 3h15min, but I was injured at the end of 2025. It took me over six months to recover!
-
-I love trail running as well, I enjoy running across rivers in the mountains, watching beautiful sightseeings at the same time! I hope that one day I can climb snow-covered mountains.
-
-I am interested in French opera and traditional Chinese-style music.
-
 Research Projects
 ======
 I finished a project at the interface of mathematics and chemistry under the supervision of [Zhiqiang Li](https://math.pku.edu.cn/teachers/lizq/index.html) at Peking University. The project has been submitted. See [Reactive Oxygen Pool over Ceria Enables Catalytic Oscillation](https://www.researchsquare.com/article/rs-9275333/v1) if you are interested. Here is the presentation about our work: [Chemical Oscillation and Limit Cycles](https://www.overleaf.com/read/zpqmhcrqpngc#c44a25).

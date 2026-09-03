@@ -20,6 +20,9 @@ main:
   - title: "TA"
     url: /ta/
 
+  - title: "Others"
+    url: /others/
+
   - title: "Several Links"
     url: /several-links/
     
