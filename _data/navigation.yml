@@ -17,6 +17,9 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "TA"
+    url: /ta/
+
   - title: "Several Links"
     url: /several-links/
     
